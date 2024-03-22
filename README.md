@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/Amnish04/Cookaroo/assets/78865303/7d2f35be-eab3-4542-b9d4-8f14fe56b4b3" alt="Recipes grouped by Cuisine" />
+  <img src="https://github.com/Amnish04/Cookaroo/assets/78865303/a50d4f7a-0224-4569-8ada-69102ec0e295" alt="Recipes grouped by Cuisine" />
 </p>
